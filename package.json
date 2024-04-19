@@ -1,5 +1,5 @@
 {
-  "name": "hccaptcha-vue",
+  "name": "captcha-vue-diuge",
   "version": "1.0.1",
   "type": "module",
   "main": "lib/captcha.umd.js",
@@ -8,13 +8,13 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "author": "yxzlwz <danny070601@aliyun.com>",
+  "author": "diuge <lvxhang1005@163.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hccaptcha/hccaptcha-vue"
+    "url": "https://github.com/diudiuge/captcha-vue-diuge"
   },
   "bugs": {
-    "url": "https://github.com/hccaptcha/hccaptcha-vue/issues"
+    "url": "https://github.com/diudiuge/captcha-vue-diuge/issues"
   },
   "license": "GPL-3.0",
   "dependencies": {
